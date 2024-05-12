@@ -1,0 +1,11 @@
+{
+  "name": "Packagefile",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "이윤형",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
